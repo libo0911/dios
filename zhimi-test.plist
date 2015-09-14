@@ -18,7 +18,7 @@
                               <key>needs-shine</key>
                               <true/>
                               <key>url</key>
-                              <string>http://1.190.175.59/mi-download/fzimg.png</string>
+                              <string>http://1.190.175.59/mi-download/fsimg512.png</string>
                          </dict>
                          <dict>
                               <key>kind</key>
@@ -26,7 +26,7 @@
                               <key>needs-shine</key>
                               <true/>
                               <key>url</key>
-                              <string>http://1.190.175.59/mi-download/dimg.png</string>
+                              <string>http://1.190.175.59/mi-download/dimg57.png</string>
                          </dict>
                     </array>
                     <key>metadata</key>
